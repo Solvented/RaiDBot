@@ -240,9 +240,7 @@ client.on("message", message => {
 
 
 
-client.login("MTAzNTE5MTY0NDk3MjEzMDM1OA.G-NEo3.9qioTXNQ8tukpq31op0d79lnkDOqWIRtnUDqP4");
+client.login("YourToken");
 
 //Bot creado por Solvented!
-//t.me
-
-
+//t.me/solventing
